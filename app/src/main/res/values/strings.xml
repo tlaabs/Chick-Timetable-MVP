@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Air</string>
+
+    <string-array name="days">
+        <item >월</item>
+        <item >화</item>
+        <item >수</item>
+        <item >목</item>
+        <item >금</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>#f08676</item>
+        <item>#ecc369</item>
+        <item>#a7ca70</item>
+        <item>#7dd1c1</item>
+        <item>#7aa5e9</item>
+        <item>#fbaa68</item>
+        <item>#9f86e1</item>
+        <item>#78cb87</item>
+        <item>#d397ed</item>
+    </string-array>
+
+    <string name="timetable_repo">timetableRepo</string>
+</resources>

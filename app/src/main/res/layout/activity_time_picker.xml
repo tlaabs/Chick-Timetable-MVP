@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".EditActivity"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    >
+
+    <include layout="@layout/time_picker_actionbar"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:background="#ffffff"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="과목명 :"
+                android:textSize="@dimen/editTextSize"
+                android:paddingLeft="3dp"
+                android:textColor="@color/colorWeakBlack"
+                />
+            <EditText
+                android:id="@+id/class_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Subject"
+                android:textSize="@dimen/editTextSize"
+                android:layout_marginBottom="20dp"
+                android:textColor="@color/colorWeakBlack"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="강의실 :"
+                android:textSize="@dimen/editTextSize"
+                android:paddingLeft="3dp"
+                android:textColor="@color/colorWeakBlack"
+                />
+            <EditText
+                android:id="@+id/class_place"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Classroom"
+                android:textSize="@dimen/editTextSize"
+                android:layout_marginBottom="20dp"
+                android:textColor="@color/colorWeakBlack"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="교수명 :"
+                android:textSize="@dimen/editTextSize"
+                android:paddingLeft="3dp"
+                android:textColor="@color/colorWeakBlack"
+                />
+            <EditText
+                android:id="@+id/professor_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Professor"
+                android:textSize="@dimen/editTextSize"
+                android:layout_marginBottom="20dp"
+                android:textColor="@color/colorWeakBlack"
+                />
+
+            <site.devsim.air.view.TimeBoxView
+                android:id="@+id/time_box"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                />
+            <Button
+                android:id="@+id/add_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:text="시간 추가"
+                android:textColor="@color/colorMain"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
