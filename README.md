@@ -1,6 +1,6 @@
 # Air
-**공기**처럼 **가벼운** 시간표 앱
-![diagram](https://lh3.googleusercontent.com/J3YPplnXUEQmjuTv3jNi2TjVrfeBn7EdzQouYBjQkW7VKJgP76jfN3NCpRQ4XFuO=s360-rw)
+**공기**처럼 **가벼운** 시간표 앱  
+![img0](https://lh3.googleusercontent.com/J3YPplnXUEQmjuTv3jNi2TjVrfeBn7EdzQouYBjQkW7VKJgP76jfN3NCpRQ4XFuO=s360-rw) 
 본 프로젝트는 광고와 불필요한 기능으로 비대해진 시간표 앱의 사용에 불편함을 느끼는 유저들을 위해 만들었습니다.
 
 <a href='https://play.google.com/store/apps/details?id=site.devsim.air'><img alt='Get it on Google Play'  height="80" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
