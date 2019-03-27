@@ -1,5 +1,5 @@
 # Air - **공기**처럼 **가벼운** 시간표 앱  
-<img src="https://lh3.googleusercontent.com/JrH-0ksc3CpZeJ3NUiISGiStATmVT5qu7f_OGHGQrSfzAyJyXPpwvs6Qn1CZu-obUnqW=w1440-h620-rw" width="200" height="200">
+<img src="https://lh3.googleusercontent.com/JrH-0ksc3CpZeJ3NUiISGiStATmVT5qu7f_OGHGQrSfzAyJyXPpwvs6Qn1CZu-obUnqW=w1440-h620-rw" width="240" height="600">
 
 광고와 불필요한 기능으로 비대해진 시간표 앱의 사용에 불편함을 느끼는 유저들을 위한 프로젝트
 
