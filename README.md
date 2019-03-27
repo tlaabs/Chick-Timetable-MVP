@@ -6,13 +6,13 @@
 <a href='https://play.google.com/store/apps/details?id=site.devsim.air'><img alt='Get it on Google Play'  height="80" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 # 기능 소개
-1. 시간 설정
+1. 시간 설정  
 09:00 ~ 20:00 까지 최소 1분단위로까지 스케줄을 설정할 수 있습니다.
 
-2. 요일 확인
+2. 요일 확인  
 요일 하이라이팅을 통해 오늘의 요일을 바로 확인가능합니다.
 
-3. ~~친구 시간표 스크랩 기능~~(rollback)
+3. ~~친구 시간표 스크랩 기능(rollback)~~
 
 # 사용된 라이브러리
 TimetableView:1.0.2
