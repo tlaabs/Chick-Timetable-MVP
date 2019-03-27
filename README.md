@@ -3,7 +3,7 @@
 
 광고와 불필요한 기능으로 비대해진 시간표 앱의 사용에 불편함을 느끼는 유저들을 위한 프로젝트
 
-<a href='https://play.google.com/store/apps/details?id=site.devsim.air'><img alt='Get it on Google Play'  height="80" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+[![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)]https://play.google.com/store/apps/details?id=site.devsim.air)
 
 # 기능 소개
 1. 시간 설정  
