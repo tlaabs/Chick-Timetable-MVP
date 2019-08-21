@@ -1,7 +1,5 @@
-# Air - **공기**처럼 **가벼운** 시간표 앱  
+# 병아리 시간표
 <img src="https://lh3.googleusercontent.com/JrH-0ksc3CpZeJ3NUiISGiStATmVT5qu7f_OGHGQrSfzAyJyXPpwvs6Qn1CZu-obUnqW=w1440-h620-rw" width="260" height="420"> <img src="https://lh3.googleusercontent.com/PgQklT-bxXVRCWff0VJYMwg102Jy8IYJiPpZYFFxvwWc3SnuwRjdZ8vis19yAAVNtQNQ=w1440-h620-rw" width="260" height="420"> <img src="https://lh3.googleusercontent.com/J0ZcsBDQ7VROR32urBbd9Bbt74xvhivt04pdQAo7_mxrOwgnOKvzJWEG-knaW3uk5D24=w1440-h620-rw" width="260" height="420">
-
-광고와 불필요한 기능으로 비대해진 시간표 앱의 사용에 불편함을 느끼는 유저들을 위한 프로젝트
 
 # 기능 소개
 1. 시간 설정  
